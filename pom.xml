@@ -42,7 +42,7 @@
                         <workerType>${vCore}</workerType>
                         <workers>${workers}</workers>
                         <objectStoreV2>true</objectStoreV2>
-                                 </cloudHubDeployment>
+        </cloudHubDeployment>
 		</plugins>
 	</build>
 
